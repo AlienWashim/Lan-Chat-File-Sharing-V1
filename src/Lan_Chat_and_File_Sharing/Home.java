@@ -34,7 +34,7 @@ public class Home extends javax.swing.JFrame{
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(76, 7, 116));
-        jLabel2.setText("Washim Akram & Sharmin Akter");
+        jLabel2.setText("Washim Akram");
 
         jButton1.setBackground(new java.awt.Color(171, 217, 232));
         jButton1.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
